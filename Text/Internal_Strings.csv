@@ -1,0 +1,575 @@
+﻿Key,Value
+about_internal_strings,This string table collection stores text that was hard-coded in FALL.EXE and text unique to Daggerfall Unity.
+StoresA,"%ef's
+%cn's Best
+The Essential
+Lord %ef's
+The Adventurer's
+The Odd
+%ef's Finest
+Bargain
+Vintage
+The Emperor's
+%cn
+%ef's General
+The Superior
+%ef's Quality
+First Class
+The %rt's
+The Champion
+Doctor %ef's
+Lady %ef's
+The Royal
+The Prestigious
+The Fair
+The Worthy
+The Noble's"
+GeneralStoresB,"Supplies
+Supply Store
+Gear
+Gear Store
+Equipment
+Equipment Store
+Sundries
+Provisions
+Merchandise
+General Store
+Retail Store
+Trading Post
+Market
+Wares
+Warehouse
+Goods
+Necessities
+Storehouse
+Stockpile
+Vendor
+Finds
+Repository
+Trading Company
+Trader
+General Goods"
+WeaponStoresB,"Weapons
+Weaponry
+Arms
+Armaments
+Arsenal
+Armsmaker
+Blades
+Blacksmith
+Metalsmith
+Weaponsmith
+Hammers
+Arrows
+"
+ArmorStoresB,"Armory
+Mail
+Shielding
+Armor
+Shields
+Aegis
+Metalworks
+Blacksmith
+Metalsmith
+Armorer
+Smith
+Smithy
+Cuirasses
+Pauldrons
+Greaves
+Helms
+Breatplates
+Gauntlets
+Brigandines
+Protection"
+BookStoresB,"Books
+Bookstore
+Bookshop
+Book Dealer
+Book Center
+Bookseller
+Bookstall
+Incunabula
+Printings
+Editions
+Tomes
+Volumes
+Codex
+Codices
+Compendium
+Encyclopedias
+Publications
+Texts
+Manuscripts
+Treatises
+Quill
+Anthology
+Scholar
+Scribe
+Tomehouse"
+LibraryStoresB,"Library
+Bookroom
+Athenaeum
+Public Library
+Historians
+Bookroom
+Seminary
+Lyceum
+Archives
+Scriptorium
+Manuscriptarium"
+ClothingStoresB,"Clothing
+Clothes
+Garments
+Apparel
+Costumes
+Vestments
+Attire
+Fashion
+Tailoring
+Outfits
+Finery
+Needle
+Robes
+Raiment
+Veils
+Silks
+Mantles
+Wardrobe
+Linens
+Garbs
+Fabric
+Regalia
+Dresser
+Millinery
+Stitchery
+Clothier
+Fittings
+Wearables
+Needlework
+Seamstress
+Hats"
+AlchemyStoresB,"Herbs
+Potherbs
+Spices
+Remedies
+Antidotes
+Physics
+Medicines
+Potions
+Tinctures
+Medicaments
+Elixirs
+Pharmacy
+Apothecary
+Unguents
+Medicinal Agents
+Herb Garden
+Pharmaceuticals
+Chemistry
+Chemicals
+Experiental Products
+Alchemistry
+Alchemical Solutions
+Metallurgy
+Crucible
+Mortar and Pestle
+Alembics
+Flasks
+Mixtures
+Brews
+Still
+Cauldrons
+Vials
+Essences
+Draughts
+Mixes
+Infusions
+Concoctions
+Arcanums
+Carafe
+Phials
+Aromatics
+Cures"
+GemStoresB,"Gems
+Gemstones
+Jewelry
+Jewels
+Precious Stones
+Bijoutry
+Jewelers
+Jewel Box
+Jewelry Shop
+Gemcutter
+Crystals
+Emerald
+Lode
+Rings
+Amulets
+Lockets"
+PawnStoresB,"Pawnshop
+Pawnbrokers
+Used Supplies
+Used Gear
+Used Equipment
+Used Merchandise
+Hockshop
+Antiquities
+Resale
+Forgotten Treasures
+Exchange
+Cache
+Reserves
+Stash
+Trove
+Findings
+Racks
+Curios
+Fortunes
+Relics
+Rummage"
+FurnitureStoresB,"Furniture
+Furnishings
+Interior Design
+Furniture Shop
+Decor
+Carpentry
+Woodworking
+Crafts
+Woodwork"
+LivestockStoresB,"Livestock
+Breeders
+Farm Animals
+Beasts
+Creatures
+Game
+Animalia
+Fauna
+Menagerie"
+TavernsA,"The %rt's
+The %rt's
+The Dirty
+The Black
+The Mole and
+The Green
+The Red
+The Gold
+The White
+The Silver
+The Crimson
+The Flying
+The Dancing
+The Laughing
+The Restless
+The Thirsty
+The Unfortunate
+The Lucky
+The Devil's
+The Rusty
+The Howling
+The Screaming
+The Bat and
+The Lion and
+The Lynx and
+The Dwarf and
+The Beaver and
+The Fox and
+The Mouse and
+The Pig and
+The Feather and
+The Toad and
+The Rat and
+The Savage
+The Knave and
+The Dead
+The Jumping
+The Smiling
+%ef's
+The Angry
+The Furious
+The Happy
+The Lusty
+The Fearful
+The Lovely
+The Joyful
+The Peaceful
+The Lonely
+The Gloomy
+The Hopeless
+The Lost
+The Panicked
+The Confused
+The Bitter
+The Mad
+The Dangerous
+The Mean
+The Shaggy
+The Gruesome
+The Tipsy
+The Merry
+The Drunk
+The Merciful
+The Messy
+The Short
+The Pathetic
+The Famous
+The Dark
+The Scared
+The Greasy
+The Fabulous
+The Hungry
+The Ghastly
+The Bored
+The Dusty
+The Pleasant
+The Pilgrim's
+The Plot and
+The Elven
+The Dwarven
+The Lizard's
+The Bloated
+The Drunken
+The Flowing
+The Merchant's
+The Oak and
+The Sleeping
+The Napping
+The Emperor's
+The Dead Man's
+The Dead Woman's
+The Winking
+The Bee and
+The Retching
+The Bannered
+The Frozen
+The Warrior and
+The Stumbling
+The Ragged
+The Stolen
+The Bear and
+The Tiger and
+The Spriggan's
+The Centaur and
+The Imp and
+The Healer and
+The Bard's
+The Wereboar and
+The Atronach's
+The Mudcrab and
+The Boar and
+The Doe's
+The Eagle's
+The Resting
+The Cooking
+The Tasty
+The Blushing
+The Belching
+The Crooked
+The Splurging
+The Drowning
+The Burning
+The Friendly
+The Jovial
+The Copper
+The Golden
+The Vulgar
+The Prince's
+The Princess'
+The Heir's
+The Creepy
+The Mysterious
+The Dramatic
+The Rotten
+The Old
+The Rebellious
+The Godly
+The Iron
+The Last
+The Messy
+The Clean
+The First
+The Filthy
+The Blunt
+The Polite
+The Soft
+The Towering
+The Bored
+The Invisible
+The Odd
+The Limping
+The Barking
+The Singing
+The Crying
+The Waving
+The Cooking
+The Sweeping
+The Lazy
+The Salted
+The Sweet
+The Leaky
+The Pretty
+The Rusty
+The Sour
+The Delicious
+The Wandering
+The Moonlit
+The Emerald
+The Broken
+The Whispering
+The Serpent's
+The Mystic
+The Enchanted
+The Starlit
+The Young
+The Moons and
+The Sun and
+Secunda's
+Masser's
+The Silent
+The Hidden
+The Sneaking"
+TavernsB,"Chasm
+Mug 
+Pit 
+Cat 
+Dog
+Goblin 
+Griffin
+Dragon
+Ogre 
+Giant
+Djinn
+Wolf
+Huntsman
+Dagger
+Skull
+Sword 
+Guard 
+Dungeon
+Helm
+Castle
+Jug
+Bird 
+Gnome
+Hedgehog
+Muskrat
+Woodchuck 
+Scorpion
+Badger 
+Goat
+Porcupine
+Priest
+Fawn
+Stag
+Barbarian
+Rascal 
+Fairy
+Slaughterfish
+Spider
+Dreugh
+Gargoyle 
+Harpy 
+Archer
+Knight
+Monk
+Ranger 
+Thief
+Acrobat 
+Orc
+Werewolf 
+Ghost
+Daedroth
+Khajiit 
+Argonian
+Vampire
+Shield
+Buckler 
+Basilisk
+Rose
+Clover
+Diamond 
+Ghoul
+Medusa
+Lich
+Mummy
+Saint 
+Troll
+Unicorn 
+Claymore
+Warhammer
+Bell 
+Candle
+Lantern
+Torch 
+Shirt
+Pants 
+Painting
+Witch
+Sorcerer 
+Minotaur
+Golem 
+Will-o'-Wisp
+Crown
+Hammer
+Nail 
+Horse
+Sheep 
+Rooster
+Vulture
+Monkey
+Coyote
+Bull 
+Pigeon
+Dove 
+Camel
+Cheese
+Sock
+Arm
+Tankard 
+Beard
+Mustache 
+Cloak
+Juggler 
+Sheaf
+Sturgeon 
+Shark
+Fish 
+Octopus 
+Raven
+Maiden
+Chair
+Barrel 
+Ale
+Banker
+Noble
+Servant 
+Laundry
+Kiss
+Wench 
+Hound
+Elf
+Seaman 
+Flagon
+Bag 
+Pint
+Venison
+Nest
+Roost
+Meadery 
+Minstrel 
+Rest
+Willow 
+Bite
+Traveler
+Perch 
+Arrow
+Harp
+Oak 
+Bow
+Steed 
+Rider
+Manor 
+Palace
+Temple 
+Prison 
+Crypt"
