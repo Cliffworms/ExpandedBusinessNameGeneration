@@ -1,12 +1,14 @@
 {
     "ModTitle": "Expanded Shop & Tavern Names",
-    "ModVersion": "1.0.0",
+    "ModVersion": "1.1.0",
     "ModAuthor": "Cliffworms",
     "DFUnity_Version": "1.0.0",
     "ModDescription": "Adds hundreds of new prefixes and suffixes for taverns and several dozens for shops so there's more name variations.",
     "GUID": "003de3ac-842e-40d4-a59c-8a7b5a68b337",
     "Files": [
-        "Assets/Game/Mods/ExpandedBusinessNameGeneration/Text/Internal_Strings.csv",
-        "Assets/Game/Mods/ExpandedBusinessNameGeneration/ExpandedBusinessNameGeneration.dfmod.json"
+        "Assets/Game/Mods/ExpandedBusinessNameGeneration/ExpandedBusinessNameGeneration.dfmod.json",
+        "Assets/Game/Mods/ExpandedBusinessNameGeneration/Scripts/InternalStringExtender.cs",
+        "Assets/Game/Mods/ExpandedBusinessNameGeneration/Text/extendedbusinessnames_strings.csv",
+        "Assets/Game/Mods/ExpandedBusinessNameGeneration/Scripts/ExpandedBusinessNameGeneration.cs"
     ]
 }

@@ -1,6 +1,6 @@
 ﻿Key,Value
 about_internal_strings,This string table collection stores text that was hard-coded in FALL.EXE and text unique to Daggerfall Unity.
-StoresA,"%ef's
+"StoresA,""%ef's"
 %cn's Best
 The Essential
 Lord %ef's
@@ -23,8 +23,8 @@ The Royal
 The Prestigious
 The Fair
 The Worthy
-The Noble's"
-GeneralStoresB,"Supplies
+"The Noble's"""
+"GeneralStoresB,""Supplies"
 Supply Store
 Gear
 Gear Store
@@ -48,8 +48,8 @@ Finds
 Repository
 Trading Company
 Trader
-General Goods"
-WeaponStoresB,"Weapons
+"General Goods"""
+"WeaponStoresB,""Weapons"
 Weaponry
 Arms
 Armaments
@@ -62,7 +62,7 @@ Weaponsmith
 Hammers
 Arrows
 "
-ArmorStoresB,"Armory
+ArmorStoresB,Armory"
 Mail
 Shielding
 Armor
@@ -81,8 +81,8 @@ Helms
 Breatplates
 Gauntlets
 Brigandines
-Protection"
-BookStoresB,"Books
+"Protection"""
+"BookStoresB,""Books"
 Bookstore
 Bookshop
 Book Dealer
@@ -106,8 +106,8 @@ Quill
 Anthology
 Scholar
 Scribe
-Tomehouse"
-LibraryStoresB,"Library
+"Tomehouse"""
+"LibraryStoresB,""Library"
 Bookroom
 Athenaeum
 Public Library
@@ -117,8 +117,8 @@ Seminary
 Lyceum
 Archives
 Scriptorium
-Manuscriptarium"
-ClothingStoresB,"Clothing
+"Manuscriptarium"""
+"ClothingStoresB,""Clothing"
 Clothes
 Garments
 Apparel
@@ -148,8 +148,8 @@ Fittings
 Wearables
 Needlework
 Seamstress
-Hats"
-AlchemyStoresB,"Herbs
+"Hats"""
+"AlchemyStoresB,""Herbs"
 Potherbs
 Spices
 Remedies
@@ -190,8 +190,8 @@ Arcanums
 Carafe
 Phials
 Aromatics
-Cures"
-GemStoresB,"Gems
+"Cures"""
+"GemStoresB,""Gems"
 Gemstones
 Jewelry
 Jewels
@@ -206,8 +206,8 @@ Emerald
 Lode
 Rings
 Amulets
-Lockets"
-PawnStoresB,"Pawnshop
+"Lockets"""
+"PawnStoresB,""Pawnshop"
 Pawnbrokers
 Used Supplies
 Used Gear
@@ -227,8 +227,8 @@ Racks
 Curios
 Fortunes
 Relics
-Rummage"
-FurnitureStoresB,"Furniture
+"Rummage"""
+"FurnitureStoresB,""Furniture"
 Furnishings
 Interior Design
 Furniture Shop
@@ -236,8 +236,8 @@ Decor
 Carpentry
 Woodworking
 Crafts
-Woodwork"
-LivestockStoresB,"Livestock
+"Woodwork"""
+"LivestockStoresB,""Livestock"
 Breeders
 Farm Animals
 Beasts
@@ -245,44 +245,8 @@ Creatures
 Game
 Animalia
 Fauna
-Menagerie"
-TavernsA,"The %rt's
-The %rt's
-The Dirty
-The Black
-The Mole and
-The Green
-The Red
-The Gold
-The White
-The Silver
-The Crimson
-The Flying
-The Dancing
-The Laughing
-The Restless
-The Thirsty
-The Unfortunate
-The Lucky
-The Devil's
-The Rusty
-The Howling
-The Screaming
-The Bat and
-The Lion and
-The Lynx and
-The Dwarf and
-The Beaver and
-The Fox and
-The Mouse and
-The Pig and
-The Feather and
-The Toad and
-The Rat and
-The Savage
-The Knave and
-The Dead
-The Jumping
+"Menagerie"""
+"TavernsA,""The Jumping"
 The Smiling
 %ef's
 The Angry
@@ -427,44 +391,8 @@ Secunda's
 Masser's
 The Silent
 The Hidden
-The Sneaking"
-TavernsB,"Chasm
-Mug 
-Pit 
-Cat 
-Dog
-Goblin 
-Griffin
-Dragon
-Ogre 
-Giant
-Djinn
-Wolf
-Huntsman
-Dagger
-Skull
-Sword 
-Guard 
-Dungeon
-Helm
-Castle
-Jug
-Bird 
-Gnome
-Hedgehog
-Muskrat
-Woodchuck 
-Scorpion
-Badger 
-Goat
-Porcupine
-Priest
-Fawn
-Stag
-Barbarian
-Rascal 
-Fairy
-Slaughterfish
+"The Sneaking"""
+"TavernsB,""Slaughterfish"
 Spider
 Dreugh
 Gargoyle 
@@ -572,4 +500,4 @@ Manor
 Palace
 Temple 
 Prison 
-Crypt"
+"Crypt"""

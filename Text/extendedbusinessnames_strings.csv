@@ -23,7 +23,19 @@ The Royal
 The Prestigious
 The Fair
 The Worthy
-The Noble's"
+The Noble's
+The Trusty
+The Valued
+The Beloved
+The Lordly
+The Greater
+The Major
+The Superb
+The Magnificent
+The Shining
+The Golden
+The Blessed
+The Prime"
 GeneralStoresB,"Supplies
 Supply Store
 Gear
@@ -48,7 +60,11 @@ Finds
 Repository
 Trading Company
 Trader
-General Goods"
+General Goods
+Emporium
+Mart
+Imports
+Stuff"
 WeaponStoresB,"Weapons
 Weaponry
 Arms
@@ -61,7 +77,9 @@ Metalsmith
 Weaponsmith
 Hammers
 Arrows
-"
+Cleavers
+Axes
+Grindstone"
 ArmorStoresB,"Armory
 Mail
 Shielding
@@ -81,7 +99,13 @@ Helms
 Breatplates
 Gauntlets
 Brigandines
-Protection"
+Protection
+Forge
+Tannery
+Ironworks
+Foundry
+Bucklers
+Anvil"
 BookStoresB,"Books
 Bookstore
 Bookshop
@@ -106,7 +130,11 @@ Quill
 Anthology
 Scholar
 Scribe
-Tomehouse"
+Tomehouse
+Pages
+Shelves
+Bindings
+Folios"
 LibraryStoresB,"Library
 Bookroom
 Athenaeum
@@ -117,7 +145,10 @@ Seminary
 Lyceum
 Archives
 Scriptorium
-Manuscriptarium"
+Manuscriptarium
+Repository
+Lorehouse
+Records"
 ClothingStoresB,"Clothing
 Clothes
 Garments
@@ -148,7 +179,11 @@ Fittings
 Wearables
 Needlework
 Seamstress
-Hats"
+Hats
+Looms
+Rags
+Threads
+Vesture"
 AlchemyStoresB,"Herbs
 Potherbs
 Spices
@@ -168,12 +203,12 @@ Herb Garden
 Pharmaceuticals
 Chemistry
 Chemicals
-Experiental Products
+Experimental Products
 Alchemistry
 Alchemical Solutions
 Metallurgy
 Crucible
-Mortar and Pestle
+Mortars and Pestles
 Alembics
 Flasks
 Mixtures
@@ -190,7 +225,12 @@ Arcanums
 Carafe
 Phials
 Aromatics
-Cures"
+Cures
+Retorts
+Admixtures"
+Alchemical Goods
+Tonics
+Salves"
 GemStoresB,"Gems
 Gemstones
 Jewelry
@@ -206,7 +246,9 @@ Emerald
 Lode
 Rings
 Amulets
-Lockets"
+Lockets
+Stones
+Pendants"
 PawnStoresB,"Pawnshop
 Pawnbrokers
 Used Supplies
@@ -227,7 +269,11 @@ Racks
 Curios
 Fortunes
 Relics
-Rummage"
+Rummage
+Bargains
+Hoard
+Trinkets
+Baubles"
 FurnitureStoresB,"Furniture
 Furnishings
 Interior Design
@@ -236,7 +282,8 @@ Decor
 Carpentry
 Woodworking
 Crafts
-Woodwork"
+Woodwork
+Millworks"
 LivestockStoresB,"Livestock
 Breeders
 Farm Animals
@@ -246,8 +293,8 @@ Game
 Animalia
 Fauna
 Menagerie"
-TavernsA,"The %rt's
-The %rt's
+TavernsA,"The Queen's
+The King's
 The Dirty
 The Black
 The Mole and
@@ -427,149 +474,246 @@ Secunda's
 Masser's
 The Silent
 The Hidden
-The Sneaking"
+The Sneaking
+The Barbed
+The Salted
+The Hearty
+The Improbable
+The Clean Elven
+The Boatman's
+The Tall
+The Short
+The Dwarven
+The Waxing
+The Slaking
+The Three Sisters'
+The Two Brothers'
+The Drowsy
+The Rosy
+The Sloshing
+The Shy
+The Flaming
+The Grinning
+The Sober
+The Withered
+The Miner's
+The Ebony
+The Hissing
+The Shining
+The Greedy
+The Randy
+The Penitent
+The Saucy
+The Shrewd
+The Banished
+The Sweet
+The Egg and
+The Scrumptious
+The Splintered
+The Smelly
+The Cheery
+The Jaded
+The Lonesome
+The Rooster and
+The Soggy
+The Wet
+The One-Eyed
+The Prideful
+The Tied-Up
+The Rowdy
+The Widowed
+The Leaking
+The Noisy
+The Spinning
+The Naked
+The Dead-End
+The Haughty
+The Divine
+The Mourning
+The Nord and
+The Busty"
 TavernsB,"Chasm
-Mug Tavern
-Pit Pub
-Cat Lodge
+Mug
+Pit
+Cat
 Dog
-Goblin Pub
+Goblin
 Griffin
 Dragon
-Ogre Tavern
+Ogre
 Giant
 Djinn
 Wolf
 Huntsman
 Dagger
 Skull
-Sword Lodge
-Guard Tavern
+Sword
+Guard
 Dungeon
 Helm
 Castle
 Jug
-Bird Pub
+Bird
 Gnome
 Hedgehog
 Muskrat
-Woodchuck Tavern
+Woodchuck
 Scorpion
-Badger Pub
+Badger
 Goat
 Porcupine
 Priest
 Fawn
 Stag
 Barbarian
-Rascal Tavern
+Rascal
 Fairy
 Slaughterfish
 Spider
 Dreugh
-Gargoyle Pub
-Harpy Tavern
+Gargoyle 
+Harpy 
 Archer
 Knight
 Monk
-Ranger Tavern
+Ranger 
 Thief
-Acrobat Pub
+Acrobat 
 Orc
-Werewolf Lodge
+Werewolf 
 Ghost
 Daedroth
-Khajiit Tavern
+Khajiit 
 Argonian
 Vampire
 Shield
-Buckler Pub
+Buckler 
 Basilisk
 Rose
 Clover
-Diamond Tavern
+Diamond 
 Ghoul
 Medusa
 Lich
 Mummy
-Saint Pub
+Saint 
 Troll
-Unicorn Tavern
+Unicorn 
 Claymore
 Warhammer
-Bell Pub
+Bell 
 Candle
-Lantern
-Torch Tavern
+Lamp
+Torch 
 Shirt
-Pants Pub
+Pants 
 Painting
 Witch
-Sorcerer Tavern
+Sorcerer 
 Minotaur
-Golem Lodge
+Golem 
 Will-o'-Wisp
 Crown
 Hammer
-Nail Pub
+Nail 
 Horse
-Sheep Tavern
+Sheep 
 Rooster
 Vulture
 Monkey
 Coyote
-Bull Tavern
+Bull 
 Pigeon
-Dove Pub
+Dove 
 Camel
 Cheese
 Sock
 Arm
-Tankard Tavern
+Tankard 
 Beard
-Mustache Pub
+Mustache 
 Cloak
-Juggler Tavern
+Juggler 
 Sheaf
-Sturgeon Lodge
+Sturgeon 
 Shark
-Fish Pub
-Octopus Tavern
+Fish 
+Octopus 
 Raven
 Maiden
 Chair
-Barrel Lodge
+Barrel 
 Ale
 Banker
 Noble
-Servant Tavern
+Servant 
 Laundry
 Kiss
-Wench Pub
+Wench 
 Hound
 Elf
-Seaman Lodge
+Seaman 
 Flagon
-Bag Tavern
+Bag 
 Pint
 Venison
 Nest
 Roost
-Meadery Pub
-Minstrel Lodge
+Meadery 
+Minstrel 
 Rest
-Willow Tavern
+Willow 
 Bite
 Traveler
-Perch Pub
+Perch 
 Arrow
 Harp
-Oak Tavern
+Oak 
 Bow
-Steed Lodge
+Steed 
 Rider
-Manor Tavern
+Manor 
 Palace
-Temple Pub
-Prison Tavern
-Crypt Lodge"
+Temple 
+Prison 
+Crypt
+Hook
+Cutlet
+Tail
+Tooth
+Teeth
+Sailor
+Mermaid
+Tusk
+Stench
+Gut
+Radish
+Kitten
+Beaver
+Cellar
+Priestess
+Keg
+Watchman
+Captain
+Sinner
+Hall
+Loup
+Marksman
+Crowd
+Spittoon
+Hangman
+Gutter
+Casket
+Farmer
+Coin
+Banner
+Goose
+Ferret
+Anchor
+Reef
+Barnacle
+Tide
+Spoon
+Bucket
+Arse
+Argonian Maid"
